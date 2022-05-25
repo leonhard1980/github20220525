@@ -1,7 +1,8 @@
 h1 {
-    color: darkslategrey;
+    color: darkred;
     font-family: "Arial Black"
     font-size: xx-large;
+    //kleuraangepast!
 }
 
 .paragraph {
@@ -12,4 +13,4 @@ h1 {
 
 article {
     width: 500px;
-text-align: justify}asassa
+text-align: justify}
